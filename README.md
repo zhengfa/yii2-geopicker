@@ -1,6 +1,6 @@
 yii2-geopicker
 ==============
-yii2 extension for pick up the long lat
+yii2 extension widget for pick up the long lat with AMAP or BAIDU MAP
 
 Installation
 ------------
